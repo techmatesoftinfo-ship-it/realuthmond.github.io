@@ -1,24 +1,27 @@
 # Adeoye Uthman Olamilekan
-## IT Support & Operations Specialist / Virtual Administrative Professional
+## IT Support Specialist & Operations Administrator
 
-Welcome to my digital professional portfolio! I am a detail-oriented professional with extensive hands-on background in computer hardware and software troubleshooting, system maintenance, database management, and client operations.
+Welcome to my digital professional portfolio! I am a detail-oriented professional with 8+ years of combined experience in IT support, operations administration, and client relationship management
+. Proven ability to troubleshoot technical issues, optimize system performance, and streamline administrative processes.
 
 ## 🛠 Core Skills & Competencies
-* **IT Support & Maintenance:** Computer troubleshooting, hardware/software installation, configuration, network system maintenance, and preventive equipment servicing.
-* **Operations & Data Management:** Database updates, data processing operations, file error correction, backup procedures, and record management.
-* **Client Relations & Admin:** Customer inquiry handling, travel coordination, scheduling, professional communication, and conflict resolution.
+* **IT Support & Technical Assistance:** Hardware troubleshooting, software installation & configuration, system monitoring, and preventive maintenance.
+* **Data & Operations:** Advanced computer operations, database management, record keeping, and secure file backup & recovery.
+* **Software & Creative Tools:** Microsoft Office Suite (Word, Excel, PowerPoint) and CorelDRAW for graphic design.
+* **Professional Competencies:** Time management, task prioritization, client relations, and remote communication.
 
 ## 💼 Professional Experience
-* **IT / Computer Support** | Hayzed Computer Resources (Nov 2025 – Present)
-  * Provided technical assistance and troubleshooting for computer hardware and software issues.
-  * Installed, configured, and maintained operating systems, software, and network systems.
-* **Processing Officer** | Omoola Consultancy & Logistics Ltd. (2023 – Oct 2025)
-  * Developed and maintained strong relationships with clients and booked travel services.
-  * Provided advice on travel documentation and monitored client budgets.
-* **Operation Administration Officer** | Degrassi Business Ventures (2022 – 2023)
-  * Managed and updated company databases while maintaining financial, employee, and client records.
-* **Computer Operator / Engineering** | Ultimate Consult Limited (2016 – 2021)
-  * Troubleshot equipment malfunctions and performed data processing operations and backup procedures.
+* **IT & Computer Support Intern** | Hayzee Computer Resources, Ibadan (Nov 2025 – Present)
+  * Provided technical support and troubleshooting for computer hardware and software issues.
+  * Installed, configured, and maintained operating systems and application software.
+* **Processing Officer** | Omo-Ola Consultancy & Logistics Ltd., Ibadan (2023 – Oct 2025)
+  * Managed client documentation and processed travel-related services including flight and hotel bookings.
+  * Provided guidance on travel documentation, monitored regulations, and managed client budgets effectively.
+* **Operations & Administration Officer** | Degrassi Business Ventures, Ibadan (2022 – 2023)
+  * Maintained accurate records, company documentation, and supported daily administrative activities.
+* **Computer Operator / Engineering** | Ultimate Consult Limited, Ibadan (2016 – 2021)
+  * Provided routine technical support for computer systems and performed preventive maintenance on equipment.
+
 ## 🚀 Featured Projects & Technical Case Studies
 
 ### 1. IT Infrastructure & Hardware Troubleshooting
@@ -35,6 +38,11 @@ Welcome to my digital professional portfolio! I am a detail-oriented professiona
 * **Context:** Managed specialized client accounts, travel arrangements, and logistics support.
 * **Execution:** Created detailed client itineraries, booked global travel services, and provided guidance on travel documentation.
 * **Result:** Maintained high client satisfaction by managing tight travel budgets and resolving customer inquiries efficiently.
-## 📬 Contact Me
-* **Email:** adeoyeuthmanolami@gmail.com
-* **Phone:** +2347057068389 / +2348039923437
+
+## 🏆 Certifications & Awards
+* **Certificate of Achievement** | Nigeria Association of Computing Students (2025)
+
+## 📬 Contact & Links
+* **Email:** info.uthmanolamilekan@gmail.com
+* **Phone:** +2347057068389
+* **LinkedIn:** [realuthmond Profile](https://www.linkedin.com/in/realuthmond/)
