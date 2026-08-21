@@ -1,0 +1,22 @@
+# IT Infrastructure & Hardware Troubleshooting 
+
+## 📋 Overview
+This project showcases practical methodologies for diagnosing, troubleshooting, and maintaining computer hardware, operating systems, and network peripherals in professional environments. 
+
+## 🛠 Objectives & Scope
+* **Hardware Diagnostics:** Systematic identification of component failures (power supplies, RAM, motherboards, storage drives).
+* **Software Configuration:** Installation, updates, and configuration of operating systems and essential utility software.
+* **Preventive Maintenance:** Routine system checks and optimization to minimize downtime and extend equipment lifespan.
+
+## ⚙️ Execution & Workflow
+1. **Diagnosis:** Utilized systematic troubleshooting protocols to isolate hardware malfunctions versus software errors.
+2. **Resolution:** Replaced faulty components, re-flashed/updated firmware, and reinstalled corrupted operating system partitions.
+3. **Data Security:** Implemented routine local backup procedures to ensure zero data loss during major system repairs.
+
+## 📊 Results & Impact
+* Successfully reduced equipment downtime and improved overall workstation performance.
+* Maintained clean, documented maintenance logs for hardware inventory tracking.
+
+---
+*Developed by Adeoye Uthman Olamilekan*  
+[View Main Professional Portfolio](https://realuthmond.github.io)
